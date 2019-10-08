@@ -1,0 +1,1 @@
+./pants binary src/go/src/test::
